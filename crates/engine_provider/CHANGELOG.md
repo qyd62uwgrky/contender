@@ -13,3 +13,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - ci publish ([#215](https://github.com/flashbots/contender/pull/215))
 - engine_ calls to advance chain manually ([#165](https://github.com/flashbots/contender/pull/165))
+
+<!-- Auto-update: 2025-10-14T05:43:20.020059 -->

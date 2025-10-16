@@ -40,3 +40,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - allow tx 'value' field to be fuzzed
 - move testfiles into scenarios/
 - idiomatic workspace structure
+
+<!-- Auto-update: 2025-10-16T13:06:45.303800 -->

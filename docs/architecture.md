@@ -23,3 +23,5 @@ graph TD
 
   H -->|Data for| J[Report Generator]
 ```
+
+<!-- Auto-update: 2025-10-19T10:51:05.545516 -->
